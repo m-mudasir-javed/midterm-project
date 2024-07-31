@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or concerns, please contact us at [mudasirjaved0.001@gmail.com](mailto:mudasirjaved0.001@gmail.com).
 
-Project github Link: [https://github.com/your-username/your-repository] project vercel link: (https://github.com/your-username/your-repository)
+Project github Link: [https://github.com/m-mudasir-javed/midterm-project.git] project vercel link: (midterm-project-jvdf-n1k9r8wnn-mudasir-javeds-projects.vercel.app)
